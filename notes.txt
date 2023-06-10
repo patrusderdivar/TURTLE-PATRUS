@@ -1,0 +1,6 @@
+Git Bash indirildi. 
+Git Hub üzerinde Patrus-Turtle adında bir repo açıldı.
+Git clone ile Turtle-Patrusu lokale alındı. 
+İlk commitimizi atacağız:
+ git config --global user.email "obgundogdu@gmail.com"
+  git config --global user.name "Patrusderdivar"
