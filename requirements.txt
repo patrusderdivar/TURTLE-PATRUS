@@ -1,0 +1,6 @@
+pandas
+pandas_ta
+backtesting
+numpy
+ccxt
+ta==0.9.0

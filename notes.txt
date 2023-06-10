@@ -1,6 +1,27 @@
-Git Bash indirildi. 
+Git Bash indirildi. Git Bash windowsun içerisinde UNİX ile uyumlu bir terminal. 
+Terminal, bilgisayara komut çalıştırabildiğin bir arayüz. 
+Terminal, işletim sisteminin çalışıtırıcısıdr. Phyton gibi programlama dilleri hardware'leri çalıştırmak için bir üst katmandaki terminaldir. 
+Gitbash üzerinde phyton çalıştırıldı. 
 Git Hub üzerinde Patrus-Turtle adında bir repo açıldı.
 Git clone ile Turtle-Patrusu lokale alındı. 
 İlk commitimizi atacağız:
  git config --global user.email "obgundogdu@gmail.com"
   git config --global user.name "Patrusderdivar"
+Komutlar:
+  git add . 
+  git commit -m "commit mesajın"
+  git push (github repoya yollama)
+  git status (dosyaların durumunu listeleme)
+
+
+C:\Users\obgun\AppData\Local\Programs\Python\Python311;C:\Users\obgun\AppData\Local\Programs\Python\Python311\scripts
+"python.pythonPath": "C:\Users\obgun\AppData\Local\Programs\Python\Python311"
+
+Visual studio üzerinde "hello berkay" komutunu phyton ile yazdık. 
+Pyhton üzerinde sayıları range komutu ile listelemeyi gerçekleştirdik. 
+For loop komutları ile if kullanarak spesifik sayıları listeledik. 
+ÖDEV: https://www.w3schools.com/ üzerinden operatorler, if clause ve logical operatorler, for loop ve data structure komutlarını öğren. Denemeler yap. 
+QUEST: 
+1-CTX kütüphanesini kullanarak mum verisini çek. (Binance)
+2-Son 20 mumu al 
+3- Son 20 mumu loop ile dön en yüksek, en düşük veriyi bul. 
